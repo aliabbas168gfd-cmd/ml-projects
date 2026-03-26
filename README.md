@@ -13,7 +13,7 @@ Algorithm:
 K-Means Clustering
 
 Applications:
-Helps hyperlocal marketplaces like ShopCardd target customers with personalized offers.
+Helps marketplaces target customers with personalized offers.
 
 ---
 
